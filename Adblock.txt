@@ -3,7 +3,7 @@
 ! 各路搜刮来的 Adblock 规则,可能有些暴力 谨慎食用
 ! TG交流群: https://t.me/Adguard_CN
 @@||http://gamer2-cds.cdn.hinet.net^
-@@||tweets.js^
+@@||tweets.js^,important
 .m.sm.cn$third-party
 $$div[class="-ad-"]
 dmhy.org$$div[id="_ad"]
