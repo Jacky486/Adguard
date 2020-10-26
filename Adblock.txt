@@ -760,8 +760,7 @@ www.iqiyi.com/*.html##.rightpcadv,.pca-img
 @@||xmxing.net
 @@||xsc.lise.edu.cn/ad/
 @@||zbj.com
-@@||http://gamer2-cds.cdn.hinet.net^
-@@||tweets.js^,important
+@@||tweets.js^$app=org.mariotaku.twidere
 ^http(?:s|)://m\.[^/]*/\d{3,}\.html\?$
 ^http://[^.]*\.m\.22ff\.com/
 ^http://[^/]*/[a-z0-9]{20,23}\.js
