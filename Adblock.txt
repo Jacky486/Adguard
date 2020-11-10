@@ -13,6 +13,9 @@ v*-dy.ixigua.com/*/video/m/$app=~com.ss.android.ugc.aweme
 /imgad^
 ||cpoml.iask.sina.com.cn^$empty
 ||sl.sogoucdn.com/semob$empty,popup
+||www.zhihu.com^
+||tieba.baidu.com^
+||weibo.com^
 m.baidu.com,www.baidu.com$$div[class="main"]
 m.baidu.com###tab_news_1 > div.tab-news-content.water-container:nth-child(2)
 
